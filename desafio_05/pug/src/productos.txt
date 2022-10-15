@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "title": "pantalon",
+    "price": 1500,
+    "thumbnail": "https://cdn1.iconfinder.com/data/icons/clothes-and-outfit-vol-1-1/128/Trousers_pants_slacks_striped_formal_clothes_outfit-256.png"
+  },
+  {
+    "id": 2,
+    "title": "buzo",
+    "price": 3200,
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/clothes-126/64/29-garmentsweatersclothingpulloversweaterjerseyclothes-256.png"
+  },
+  {
+    "id": 3,
+    "title": "remera",
+    "price": 2200,
+    "thumbnail": "https://cdn2.iconfinder.com/data/icons/line-color-mix-vol-4-1/128/line-24-256.png"
+  },
+  {
+    "id": 4,
+    "title": "medias",
+    "price": 2770,
+    "thumbnail": "https://cdn2.iconfinder.com/data/icons/sports-214/200/gaobangwa-256.png"
+  },
+  {
+    "id": 5,
+    "name": "",
+    "price": "",
+    "thumbnail": "",
+    "asdf": ""
+  },
+  {
+    "id": 6,
+    "name": "asdas",
+    "price": "190",
+    "thumbnail": "asdasd"
+  }
+]
