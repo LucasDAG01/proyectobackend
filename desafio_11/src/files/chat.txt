@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "author": {
+      "email": "lucas.daniel.ag.ar@gmail.com",
+      "name": "Lucas Daniel",
+      "lastname": "Acosta Gonzalez",
+      "age": "21",
+      "alias": "algo",
+      "avatar": "alguna"
+    },
+    "text": "hola",
+    "timestamp": "26/11/2022, 16:16:25"
+  }
+]
