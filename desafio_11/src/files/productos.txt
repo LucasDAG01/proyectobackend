@@ -40,5 +40,11 @@
     "title": "short",
     "price": "5000",
     "thumbnail": "https://cdn1.iconfinder.com/data/icons/clothes-and-outfit-vol-1-1/128/shorts_pants_slacks_formal_clothes_outfit-64.png"
+  },
+  {
+    "id": 8,
+    "title": "as",
+    "price": "1290",
+    "thumbnail": "https://cdn2.iconfinder.com/data/icons/basic-flat-icon-set/128/converse-64.png"
   }
 ]

@@ -7,7 +7,7 @@ const { normalize, schema } = require("normalizr");
 const Contenedor = require("./src/components/contenedor");
 const ContenedorChat = require("./src/components/contenedorChat");
 const ContenedorSql = require("./src/components/ContenedorSql");
-const faker = require("@faker-js/faker");
+const { faker } = require("@faker-js/faker");
 const { commerce, image } = faker;
 faker.locale = "es";
 
@@ -77,7 +77,7 @@ app.get("/test", (req, res) => {
     });
   }
   console.log(arrayProd);
-  res.send("test");
+  res.send(arrayProd);
 });
 
 // levantar server
