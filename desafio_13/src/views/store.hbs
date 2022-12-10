@@ -1,0 +1,25 @@
+<div class="container">
+    <div class="row">
+        <div class="container text-center">
+                <div id="username">
+                <h1>Bienvenido {{user}}</h1>
+                <a href="/logout" class="btn btn-primary" type="submit">Salir</a>
+              </div>
+        </div>
+              
+        <div class="col">
+            <p id="userEmail"></p>
+            <h2 class="text-center">Form de Productos</h2>
+            {{> form}}
+            <h2 class="text-center">Lista de Productos</h2>
+            <div class="my-4" id="productsContainer"></div>
+            <h2 class="text-primary">Centro de mensajes</h2>
+            {{> chat}}
+        </div>
+    </div>
+    <div>
+        <h1 class="text-center">Aca va el footer</h1>
+    </div>
+        
+
+</div>
