@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "pantalon",
+    "price": 1500,
+    "thumbnail": "https://cdn1.iconfinder.com/data/icons/clothes-and-outfit-vol-1-1/128/Trousers_pants_slacks_striped_formal_clothes_outfit-256.png"
+  },
+  {
+    "id": 2,
+    "title": "buzo",
+    "price": 3200,
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/clothes-126/64/29-garmentsweatersclothingpulloversweaterjerseyclothes-256.png"
+  },
+  {
+    "id": 3,
+    "title": "remera",
+    "price": 2200,
+    "thumbnail": "https://cdn2.iconfinder.com/data/icons/line-color-mix-vol-4-1/128/line-24-256.png"
+  },
+  {
+    "id": 4,
+    "title": "medias",
+    "price": 2770,
+    "thumbnail": "https://cdn2.iconfinder.com/data/icons/sports-214/200/gaobangwa-256.png"
+  },
+  {
+    "id": 5,
+    "title": "auto",
+    "price": "1500",
+    "thumbnail": "https://cdn2.iconfinder.com/data/icons/basic-flat-icon-set/128/converse-64.png"
+  },
+  {
+    "id": 6,
+    "title": "planta",
+    "price": "1500",
+    "thumbnail": "https://cdn2.iconfinder.com/data/icons/basic-flat-icon-set/128/converse-64.png"
+  },
+  {
+    "id": 7,
+    "title": "short",
+    "price": "5000",
+    "thumbnail": "https://cdn1.iconfinder.com/data/icons/clothes-and-outfit-vol-1-1/128/shorts_pants_slacks_formal_clothes_outfit-64.png"
+  },
+  {
+    "id": 8,
+    "title": "as",
+    "price": "1290",
+    "thumbnail": "https://cdn2.iconfinder.com/data/icons/basic-flat-icon-set/128/converse-64.png"
+  },
+  {
+    "id": 9,
+    "title": "algo",
+    "price": "1290",
+    "thumbnail": "https://cdn2.iconfinder.com/data/icons/basic-flat-icon-set/128/converse-64.png"
+  }
+]
