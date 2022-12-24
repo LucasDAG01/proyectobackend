@@ -1,0 +1,23 @@
+<h2 class="mx-5 my-2">Login de Usuario</h2>
+<div class="mx-5 my-2">
+  <form action="/login" method="POST">
+    <label>Email:</label>
+    <input
+      class="form-control"
+      type="text"
+      name="email"
+      placeholder="Ingresa tu correo"
+    />
+    <label>Password:</label>
+    <input
+      class="form-control"
+      type="password"
+      name="password"
+      placeholder="Ingresa tu contraseña"
+    />
+    <button type="submit" class="btn btn-primary my-3">Iniciar sesión</button>
+  </form>
+  {{! <a href="/login-twitter">Iniciar sesion con twitter</a> }}
+  <hr />
+  <a href="/registro" class="btn btn-primary my-3">Registro</a>
+</div>
