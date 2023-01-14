@@ -1,0 +1,21 @@
+{{#if datos.length}}
+<table class="table">
+    {{#each datos}}
+      <ul>
+        <li scope="row">Argumentos de entrada: "{{this.arg}}"</li>
+        <li>Nombre de plataforma: "{{this.so}}"</li>
+        <li>Version de node: "{{this.ver}}"</li>
+        <li>Memoria reservada: "{{this.rss}}"</li>
+        <li>Path: "{{this.path}}"</li>
+        <li>Process id: "{{this.id}}"</li>
+        <li>Carpeta del proyecto: "{{this.folder}}"</li>
+        <li>Procesadores: "{{this.pros}}"</li>
+      </ul>
+    {{/each}}
+
+  </tbody>
+<table>
+{{else}}
+<p>no hay datos</p>
+</table>
+{{/if}}

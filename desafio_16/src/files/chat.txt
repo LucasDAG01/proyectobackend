@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "author": {
+      "email": "lucas.daniel.ag.ar@gmail.com",
+      "name": "Lucas Daniel",
+      "lastname": "Acosta Gonzalez",
+      "age": "21",
+      "alias": "algo",
+      "avatar": "alguna"
+    },
+    "text": "hola",
+    "timestamp": "26/11/2022, 16:16:25"
+  },
+  {
+    "id": 2,
+    "author": {
+      "email": "alone8642@gmail.com",
+      "name": "Lucas Daniel",
+      "lastname": "Acosta Gonzalez",
+      "age": "34",
+      "alias": "jus",
+      "avatar": "algo"
+    },
+    "text": "",
+    "timestamp": "26/11/2022, 18:48:40"
+  },
+  {
+    "id": 3,
+    "author": {
+      "email": "lucas.daniel.ag.ar@gmail.com",
+      "name": "Lucas Daniel",
+      "lastname": "Acosta Gonzalez",
+      "age": "32",
+      "alias": "asd",
+      "avatar": "asd"
+    },
+    "text": "ahora",
+    "timestamp": "26/11/2022, 19:16:10"
+  },
+  {
+    "id": 4,
+    "author": {
+      "email": "algo@gmail.com",
+      "name": "juan",
+      "lastname": "perez",
+      "age": "12",
+      "alias": "algo",
+      "avatar": "no tengo"
+    },
+    "text": "buenas",
+    "timestamp": "26/11/2022, 19:22:40"
+  }
+]
